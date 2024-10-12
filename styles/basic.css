@@ -27,6 +27,16 @@ body {
 	font-family: "Sansita", sans-serif;
 }
 
+#projectmain{
+	display: grid;
+	grid-template-columns: 1/4;
+	grid-template-rows: 1/2;
+}
+
+.projectimages{
+	width: 300px;
+}
+
 /* mobile **************************/
 header {
 	background-color: cornflowerblue;
